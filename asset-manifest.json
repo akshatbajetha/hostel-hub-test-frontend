@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//akshatbajetha.github.io/hostel-hub-test-frontend/static/css/main.b9925b63.css",
+    "main.js": "//akshatbajetha.github.io/hostel-hub-test-frontend/static/js/main.7a9a3c1d.js",
+    "static/media/Hostel-Hub-Logo.png": "//akshatbajetha.github.io/hostel-hub-test-frontend/static/media/Hostel-Hub-Logo.b9f3bc0f3f5794cb4493.png",
+    "index.html": "//akshatbajetha.github.io/hostel-hub-test-frontend/index.html",
+    "main.b9925b63.css.map": "//akshatbajetha.github.io/hostel-hub-test-frontend/static/css/main.b9925b63.css.map",
+    "main.7a9a3c1d.js.map": "//akshatbajetha.github.io/hostel-hub-test-frontend/static/js/main.7a9a3c1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9925b63.css",
+    "static/js/main.7a9a3c1d.js"
+  ]
+}
